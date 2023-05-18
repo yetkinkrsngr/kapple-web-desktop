@@ -104,6 +104,7 @@ color: #fff;
 .menu-ul-p{
     padding-right: 20px;
 }
+
 .social-box{
     width: 230px;
     padding: 10px;
@@ -212,6 +213,7 @@ background-color: #FFFFFF;
     width: 100%;
     height: 100%;
     display: none;
+    margin-top: 2px;
     
 }
 .porfolio-item:hover  .hover-box{
@@ -233,6 +235,7 @@ background-color: #FFFFFF;
 }
 .hover-box:hover{
 display:inline-block ;
+
 }
 .img-ho{
     width: 100%;
